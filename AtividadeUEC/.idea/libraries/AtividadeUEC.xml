@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AtividadeUEC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AtividadeUEC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
